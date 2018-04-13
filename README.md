@@ -87,7 +87,7 @@ ___
 ## Learning Journal
 
 Things I learned studying this problem:
-* grouping two arrays into one
+* grouping two arrays into one (.push.apply(array1, array2))
 * adding an object to an array
 *
 *
